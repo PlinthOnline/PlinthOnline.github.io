@@ -11,3 +11,9 @@ body {
   text-align: center;
   padding-top: 5%;
 }
+
+p {
+font-style: italic;
+color: F4E3BA;
+font-size: 16;
+}
