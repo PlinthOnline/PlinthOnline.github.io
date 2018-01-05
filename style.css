@@ -12,8 +12,14 @@ body {
   padding-top: 5%;
 }
 
-p {
+img.smalllogo{
+  max-width: 25%;
+}
+
+.cap {
 font-style: italic;
 color: F4E3BA;
 font-size: 16;
+max-width: 25%;
+margin: 0 auto;
 }
